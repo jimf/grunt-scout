@@ -1,0 +1,46 @@
+{
+  "name": "grunt-scout",
+  "description": "Generate a simple scout file based on Alex Sexton's scout strategy",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jimf/grunt-scout",
+  "author": {
+    "name": "Jim Fitzpatrick",
+    "email": "fitzpatrick.jim@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jimf/grunt-scout.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jimf/grunt-scout/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jimf/grunt-scout/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "chalk": "^0.5.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.4.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "gruntplugin",
+    "scout",
+    "deploy"
+  ]
+}
