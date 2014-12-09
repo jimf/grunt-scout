@@ -1,4 +1,4 @@
-# grunt-scout
+# grunt-scout [![Build status](https://travis-ci.org/jimf/grunt-scout.svg?branch=master)](https://travis-ci.org/jimf/grunt-scout)
 
 > Generate a simple scout file based on [Alex Sexton's scout strategy](https://alexsexton.com/blog/2013/03/deploying-javascript-applications/).
 
